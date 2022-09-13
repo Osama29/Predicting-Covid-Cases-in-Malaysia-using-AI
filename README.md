@@ -51,6 +51,7 @@ y = features['deaths_new']
 del x['deaths_new']
 ```
 
+
 The step below is to create train and test splits of the data sets. Four data sets will be named x_train, x-test, y_train, and y_test. The test size is 0.3.
 
 ```Python
